@@ -2,8 +2,9 @@
 
 **Olá ! Bem vindo ao meu livro de receitas**
 
-*Cozinhar  é  uma Forma de Amar*
+*Cozinhar  é  uma Forma de Amar* :star:
 
 - Strogonoff de Frango
-
 - Carne de Panela 
+- Lasanha  à bolonhesa 
+
