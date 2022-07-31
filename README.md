@@ -5,3 +5,5 @@
 *Cozinhar  é  uma Forma de Amar*
 
 - Strogonoff de Frango
+
+- Carne de Panela 
